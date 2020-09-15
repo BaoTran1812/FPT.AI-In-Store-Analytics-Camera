@@ -1,0 +1,10 @@
+node_modules
+logs
+.DS_Store
+server/report/tmp/*.*
+server/ballot/qrcode/*
+server/ballot/generated/*
+!server/ballot/qrcode/.gitkeep
+!server/ballot/generated/.gitkeep
+.env
+.env_prod

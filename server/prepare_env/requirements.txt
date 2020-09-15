@@ -1,0 +1,4 @@
+docxtpl==0.6.3
+requests
+qrcode
+pillow
